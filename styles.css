@@ -1,6 +1,15 @@
 #app{
   height:90vh;
 }
+.day {
+    background-color: white;
+    color: black;
+}
+
+.button_day {
+    background-color: lightgray;
+    color: black;
+}
 .night{
   background-color: black;
   color:white;
